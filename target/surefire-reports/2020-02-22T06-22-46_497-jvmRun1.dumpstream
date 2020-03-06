@@ -1,0 +1,10 @@
+# Created at 2020-02-22T06:26:52.158
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.116)
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'osamas-MacBook-Pro.local', ip: 'fe80:0:0:0:1c51:7eb0:4c0f:24d5%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.2', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.116, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /var/folders/x3/g_xcwmrj4vl...}, goog:chromeOptions: {debuggerAddress: localhost:56173}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2057b2aa27a47d59c4d8096b0df2aa23
+

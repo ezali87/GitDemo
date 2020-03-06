@@ -1,0 +1,8 @@
+# Created at 2020-02-22T06:55:58.228
+Tried to run command without establishing a connection
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'osamas-MacBook-Pro.local', ip: 'fe80:0:0:0:1c51:7eb0:4c0f:24d5%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.2', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 72.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200117190643, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 23210, moz:profile: /var/folders/x3/g_xcwmrj4vl..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.2.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7808891c-131f-2f4e-80d4-0c030fc96782
+
